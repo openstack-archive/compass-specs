@@ -35,6 +35,21 @@ REST API impact
 
 None
 
+UI impact
+---------
+
+None
+
+Cookbook impact
+---------------
+
+None
+
+Installation impact
+-------------------
+
+None
+
 Security impact
 ---------------
 
