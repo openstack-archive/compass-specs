@@ -245,5 +245,5 @@ https://github.com/openstack/ironic-python-agent/blob/master/ironic_python_agent
 https://github.com/openstack/nova/blob/master/nova/virt/ironic/driver.py
 https://github.com/openstack/nova/blob/master/nova/compute/manager.py
 https://github.com/rackerlabs/onmetal-ironic-hardware-manager/blob/master/onmetal_ironic_hardware_manager
-http://specs.openstack.org/openstack/ironic-specs/specs/juno/agent-driver.htmli
+https://specs.openstack.org/openstack/ironic-specs/specs/juno/agent-driver.htmli
 http://cloudinit.readthedocs.org/en/latest/topics/examples.html
