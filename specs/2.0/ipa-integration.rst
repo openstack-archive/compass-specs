@@ -85,7 +85,7 @@ Option 2: Integrate with IPA directly.
    node validation, writing images to disk, heatbeat interaction.
 #. Compass uses the passthru interface to employ other methods such as spec
    inspection(interface, cpu, memory, disk), erase disk, firmware upgrade
-   bios configration and update, LLDP topology info, provided by IPA and its
+   bios configuration and update, LLDP topology info, provided by IPA and its
    extensions, onmetal hardware manager for instance.
 
 * Pros:
